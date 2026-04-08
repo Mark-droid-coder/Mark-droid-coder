@@ -1,4 +1,4 @@
-![banner](./banner.png)
+![banner](./file_00000000c5e0720797af14fdfa806db1.png)
 
 # 👋 Hi, I'm Mark
 
